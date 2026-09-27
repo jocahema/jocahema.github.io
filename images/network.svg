@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title description">
+  <title id="title">Abstract geometric morphometrics background</title>
+  <desc id="description">Diffuse insect wing contours, veins, landmarks and landmark connections.</desc>
+  <defs>
+    <filter id="soft" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="0.7"/></filter>
+    <g id="wing">
+      <path d="M58 428 C152 126 430 30 716 88 C850 115 975 190 1030 292 C895 324 775 390 664 470 C495 592 279 579 58 428Z"/>
+      <path d="M58 428 C242 374 400 300 520 192 C617 106 721 90 844 132"/>
+      <path d="M58 428 C272 425 460 411 664 470"/><path d="M58 428 C285 500 466 514 664 470"/>
+      <path d="M205 382 C245 270 338 173 463 117"/><path d="M344 326 C420 335 504 356 579 418"/>
+      <path d="M520 192 C565 249 622 306 705 346"/><path d="M705 346 C776 260 827 197 844 132"/>
+      <path d="M705 346 C812 344 922 326 1030 292"/><path d="M664 470 C674 425 688 384 705 346"/>
+      <path d="M463 117 C475 145 496 168 520 192"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#4569b0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity=".32" filter="url(#soft)">
+    <use href="#wing" transform="translate(-150 20) rotate(-8 500 300)"/>
+    <use href="#wing" transform="translate(1760 1020) rotate(172 500 300) scale(.73)"/>
+    <use href="#wing" transform="translate(990 140) rotate(18 500 300) scale(.43)" opacity=".58"/>
+  </g>
+  <g fill="none" stroke="#7f95c5" stroke-width="1.35" opacity=".27">
+    <path d="M73 414 198 349 335 292 508 174 694 329 646 452 464 495 278 472Z"/>
+    <path d="M198 349 278 472M335 292 464 495M508 174 646 452M335 292 694 329M198 349 508 174M464 495 694 329"/>
+    <path d="M1120 814 1210 736 1322 790 1425 690 1534 762 1440 882 1290 918Z"/>
+    <path d="M1120 814 1322 790 1440 882M1210 736 1290 918M1210 736 1425 690M1322 790 1534 762M1425 690 1440 882"/>
+  </g>
+  <g fill="#1f4fa3" opacity=".42">
+    <circle cx="73" cy="414" r="7"/><circle cx="198" cy="349" r="6"/><circle cx="335" cy="292" r="8"/><circle cx="508" cy="174" r="7"/>
+    <circle cx="694" cy="329" r="9"/><circle cx="646" cy="452" r="6"/><circle cx="464" cy="495" r="8"/><circle cx="278" cy="472" r="6"/>
+    <circle cx="1120" cy="814" r="6"/><circle cx="1210" cy="736" r="8"/><circle cx="1322" cy="790" r="7"/><circle cx="1425" cy="690" r="9"/>
+    <circle cx="1534" cy="762" r="6"/><circle cx="1440" cy="882" r="8"/><circle cx="1290" cy="918" r="6"/>
+  </g>
+  <g fill="none" stroke="#1f4fa3" stroke-width="2" opacity=".22"><circle cx="694" cy="329" r="17"/><circle cx="1425" cy="690" r="18"/><circle cx="335" cy="292" r="14"/></g>
+</svg>
