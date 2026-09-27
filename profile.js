@@ -16,34 +16,34 @@ window.ACADEMIC_PROFILE = {
   "research": [
     {
       "title": {
-        "en": "Invasion biology",
-        "es": "Biología de invasiones"
+        "en": "Biological invasions and environmental change",
+        "es": "Invasiones biológicas y cambio ambiental"
       },
       "description": {
-        "en": "Introduction, establishment and spread of non-native species across ecosystems, examining adaptation, ecological interactions and responses to environmental change.",
-        "es": "Introducción, establecimiento y expansión de especies no nativas en distintos ecosistemas, estudiando su adaptación, las interacciones ecológicas y las respuestas al cambio ambiental."
+        "en": "Understanding the introduction, establishment, persistence and spread of non-native species, with particular emphasis on population-level responses to environmental variation and changing ecological conditions.",
+        "es": "Comprender la introducción, el establecimiento, la persistencia y la dispersión de especies no nativas, con especial énfasis en las respuestas a nivel poblacional frente a la variación ambiental y las condiciones ecológicas cambiantes."
       },
       "icon": "invasion"
     },
     {
       "title": {
-        "en": "Geometric morphometrics and evolution",
-        "es": "Morfometría y evolución"
+        "en": "Phenotypic and genomic variation at the population level",
+        "es": "Variación fenotípica y genómica a nivel poblacional"
       },
       "description": {
-        "en": "Shape and size variation, asymmetry and morphological divergence as tools to study adaptation, population structure and taxonomic identification.",
-        "es": "Variación de forma y tamaño, asimetría y diferenciación morfológica para estudiar adaptación, estructura poblacional e identificación taxonómica."
+        "en": "Integrating geometric morphometrics and population genomics to investigate variation in shape and size, morphological differentiation, genetic structure and genomic diversity, and their relationships with environmental and evolutionary processes.",
+        "es": "Integrar la morfometría geométrica y la genómica de poblaciones para investigar la variación en forma y tamaño, la diferenciación morfológica, la estructura genética y la diversidad genómica, así como sus relaciones con los procesos ambientales y evolutivos."
       },
       "icon": "morphometrics"
     },
     {
       "title": {
-        "en": "Biodiversity and ecosystem health",
-        "es": "Biodiversidad y salud ecosistémica"
+        "en": "Ecosystem health and socioecological systems",
+        "es": "Salud ecosistémica y sistemas socioecológicos"
       },
       "description": {
-        "en": "Integrating ecological, physiological and genetic perspectives to understand how organisms and ecosystems respond to environmental change.",
-        "es": "Integración de dimensiones ecológicas, fisiológicas y genéticas para comprender la respuesta de organismos y ecosistemas al cambio ambiental."
+        "en": "Integrating biological, ecological and socioecological perspectives to understand how environmental change and human activities influence ecosystem dynamics, biological invasions and management responses.",
+        "es": "Integrar perspectivas biológicas, ecológicas y socioecológicas para comprender cómo el cambio ambiental y las actividades humanas influyen en la dinámica de los ecosistemas, las invasiones biológicas y las respuestas de gestión."
       },
       "icon": "ecosystem"
     }
